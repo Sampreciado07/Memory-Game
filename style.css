@@ -14,7 +14,7 @@ body {
 .board{
     height: 480px;
     width: 460px;
-    background-color: aliceblue;
+    background-color: rgb(255, 154, 204);
     margin: auto;
     display: flex;
     justify-content: center;
