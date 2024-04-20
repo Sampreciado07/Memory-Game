@@ -1,4 +1,4 @@
-# Juego de tajetas de memoria
+# Juego de tarjetas de memoria
 Esta es una version del juego Memory-Game hecha para el curso de Programacion Hipermedia.
 
 
