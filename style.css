@@ -7,8 +7,9 @@ body {
     width: 100vw;
     height: 100vh;
     box-sizing: border-box;
-    background-color: rgb(50, 119, 248);
+    background-image: url(https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2017/07/EMOJI-COLLAGE.jpeg);
     display: flex;
+    background-size: cover;
 }
 .board{
     height: 480px;
